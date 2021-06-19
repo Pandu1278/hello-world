@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
+<h1>Successfully i deployed .war file on Tomcat server!   </h1>
+<h2> I am Bhaskar Sadineni</h2>
+<h2> Happy to learn all these things </h2>
