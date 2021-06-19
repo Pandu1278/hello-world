@@ -1,3 +1,3 @@
-<h1>Succesfully i deployed .war file on Tomcat server! with the port number 9000  </h1>
-<h2> I am Bhaskar Sadineni</h2>
+<h1>Successfully deployed application on to the tomcat server and automated deployements by using jenkins  </h1>
+<h2>Thanx! SHIVA BRO</h2>
 <h2> Happy to learn all these things </h2>
