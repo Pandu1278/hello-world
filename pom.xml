@@ -19,7 +19,7 @@
         <connection>scm:git:git@github.com:Pandu1278/hello-world.git</connection>
         <developerConnection>scm:git:git@github.com:Pandu1278/hello-world.git</developerConnection>
         <url>https://github.com/Pandu1278/hello-world/</url>
-        <tag>@{project.version}</tag>
+        <tag>v@{project.version}</tag>
    </scm>       
 
   <modules>
